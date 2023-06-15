@@ -13,3 +13,5 @@ I speak :
 English 🇺🇸 
 French 🇫🇷 
 (Working on my) spanish🇪🇸
+
+<a href="https://app.daily.dev/marialoudiaz"><img src="https://api.daily.dev/devcards/8e341304623b4bb9ba960469a9db4157.png?r=fni" width="400" alt="Maria Lou Diaz's Dev Card"/></a>
