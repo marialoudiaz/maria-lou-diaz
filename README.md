@@ -7,7 +7,7 @@ as a webdesigner and full-stack developer
 
 👩🏽‍💻 I work with :
 Adobe Suite, Figma/Sketch
-HTML, CSS, React, NodeJS, JavaScript, MongoDB
+HTML, CSS, React, React Native, NodeJS, Express, JavaScript, MongoDB
 
 I speak :
 English 🇺🇸 
